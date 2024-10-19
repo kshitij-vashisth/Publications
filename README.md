@@ -1,6 +1,12 @@
 # My Publications
 
 ## 2024
+- **Immunotherapy in Alzheimer's Disease: Current State and Future Directions**
+  - **Publication:** Journal of Alzheimer’s Disease
+  - **DOI:** 10.3233/JAD-230603
+  - **Role:** First Author
+  - **Date:** 2024/10/18
+
 - **Exposure to an aversive odor alters Caenorhabditis elegans physiology**
   - **Publication:** microPublication Biology
   - **DOI:** [10.17912/micropub.biology.001198](https://doi.org/10.17912/micropub.biology.001198)
@@ -46,8 +52,5 @@
   - **Date:** 2022/05/27
 
 ## Forthcoming
-- **Immunotherapy in Alzheimer's Disease: Current State and Future Directions**
-  - **Publication:** Journal of Alzheimer’s Disease
-  - **Status:** Accepted. Will be published soon.
-  - **Role:** Primary Author
+- Nothing as of the moment.
 
