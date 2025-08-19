@@ -3,7 +3,7 @@
 ## 2024
 - **Immunotherapy in Alzheimer's Disease: Current State and Future Directions**
   - **Publication:** Journal of Alzheimer’s Disease
-  - **DOI:** [10.3233/JAD-230603](https://doi.org/10.3233/JAD-230603)
+  - **DOI:** [10.3233/JAD-230603](https://journals.sagepub.com/doi/10.3233/JAD-230603?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200pubmed)
   - **Role:** First Author
   - **Date:** 2024/10/18
 
